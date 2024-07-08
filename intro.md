@@ -1,9 +1,13 @@
-Adipisicing fugiat exercitation exercitation sunt. Sit voluptate qui labore incididunt esse officia dolore do dolore commodo eiusmod commodo. Sunt nostrud deserunt reprehenderit Lorem eu amet ipsum culpa velit ad nostrud incididunt exercitation ut officia. Cupidatat voluptate nostrud commodo aliquip dolor ad cillum ut labore incididunt consequat laboris.
+Im Kurs "Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte visualisiert" habe ich mich dieses Sommersemester mit der Publikation "The First Book of Fashion - The Book of Clothes of Matthäus & Veit Konrad Schwarz of Augsburg" (editiert von Ulinka Rublack und Maria Hayward) beschäftigt. Aufgabenstellung war es, sich mit einem Werk oder Publikation der Kunstgeschichte auseinanderzusetzen, es vorzustellen und mit einer Anwendung der Wahl zu visualisieren. Hier seht ihr meine wunderschönes Flowchart, welches von Matthäus Schwarz und seinem "First Book of Fashion" handelt. Alle Inhalte und Informationen kommen aus dem oben genannten Buch. 
 
 # How to Use
 
-Use the button below to start (and pause) the audio narration of the chart. You can also explore the chart yourself by selecting any visible items and moving along step by step.
+I don't have narration. Please don't use the button below. Just click the wee buttons on the screen and read it yourself thank you.
 
 # Credits
 
-This demo project was created at [Urban Complexity Lab](https://uclab.fh-potsdam.de/) as a placeholder example for the customizable flowchart template linked to below.
+The First Book of Fashion - The Book of Clothes of Matthäus & Veit Konrad Schwarz of Augsburg
+
+Edited by Ulinka Rublack and Maria Hayward
+
+Bloomsbury Visual Arts
