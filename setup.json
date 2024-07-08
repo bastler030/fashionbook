@@ -1,11 +1,11 @@
 {
-    "id": "flowchart-template",
-    "title": "Flowchart Template",
-    "subtitle": "Navigating and narrating complexity through exploration and storytelling",
+    "id": "fashionbook",
+    "title": "The First Book of Fashion",
+    "subtitle": "Matthäus Schwarz und sein Trachtenbuch",
     "colors": {
-        "background-color": "#F2EEE6",
+        "background-color": "#640026",
         "intro-background-color": "#FFFDFA",
-        "text-color": "#4D5B80",
+        "text-color": "#640026",
         "accent-color": "#1C9E9E"
     }
 }
