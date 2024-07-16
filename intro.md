@@ -3,7 +3,7 @@ Alle Inhalte und Informationen kommen aus dem oben genannten Buch.
 
 # How to Use
 
-Click along!
+Click along! Every text is an object and needs to be interacted with to be able to continue. If you are stuck: scrolling works and helps.
 
 # Credits
 
