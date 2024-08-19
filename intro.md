@@ -15,3 +15,5 @@ Editiert von Ulinka Rublack und Maria Hayward
 Bloomsbury Visual Arts 
 
 Erstveröffentlichung 2015, später nochmal eine Neuauflage 2021
+
+Zurück zur Übersicht: https://uclab.fh-potsdam.de/bildargument/
